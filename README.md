@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Md Syful Islam
-#### Java Programmer
-![Angular & Spring boot software developer]("D:\my document\My Picture & Signature\54703.jpg")
+#### Java Developer
+![Angular & Spring boot software developer]("54703.jpg")
 
 I am a passionate Java programmer and enthusiastic about learning new skills.
 
-Skills: HTML / JS/Mysql/JAVA/Angular/Spring Framework
+Skills: JAVA/Angular/Spring Boot/Oracle database/Android & Flutter
 
 - 🔭 I’m currently working on this page.
 
