@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumonJP?tab=repositories](https://github.com/sumonJP?tab=repositories)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Dart & Flutter**
 
 - 📫 How to reach me **syful.islam3412@gmail.com**
 
