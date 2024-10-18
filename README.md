@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumonjp&label=Profile%20views&color=0e75b6&style=flat" alt="sumonjp" /> </p>
 
-- 🔭 I’m currently working on [Bank Management System](https://github.com/sumonJP/QuizUp.git)
+- 🔭 I’m currently working on [Bank Management System]([https://github.com/sumonJP/QuizUp.git](https://github.com/sumonJP/QuizUp.git))
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumonJP?tab=repositories](https://github.com/sumonJP?tab=repositories)
 
