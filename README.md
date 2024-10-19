@@ -74,9 +74,10 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumonjp&show_icons=true&locale=en&layout=compact&theme=default_repocard" alt="Top Languages" />
+    <img src="https://<your-vercel-url>/api/top-langs?username=sumonjp&show_icons=true&locale=en&layout=compact&theme=default_repocard" alt="Top Languages" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sumonjp&show_icons=true&locale=en&theme=default_repocard" alt="GitHub Stats" />
+    <img src="https://<your-vercel-url>/api?username=sumonjp&show_icons=true&locale=en&theme=default_repocard" alt="GitHub Stats" />
 </p>
+
 
