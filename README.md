@@ -52,33 +52,22 @@
     <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
     </a> 
-    Dart - 80%
-    <br>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
     </a>
-    Flutter - 85%
-    <br>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     </a>
-    Spring - 70%
-    <br>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a>
-    Firebase - 75%
-    <br>
     <a href="https://pub.dev/packages/sqflite" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqflite" width="40" height="40"/> 
     </a>
-    Sqflite - 65%
-    <br>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
-    MySQL - 75%
-</p>
+</p>give this for dymically change language percentage
 
 
 ---
